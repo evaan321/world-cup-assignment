@@ -1,0 +1,226 @@
+body {
+
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+header {background-color: black;
+
+
+    width: 1321px;
+    height: 646px;
+
+    border-radius: 25px;
+
+  margin-left: 400px;
+
+  margin-top: 300px;
+
+  margin-bottom: 5%;
+    
+
+}
+
+h3 {
+
+    font-weight: 600;
+font-size: 18px;
+}
+h1 {
+
+    color: white;
+
+    font-size: 50px
+    ;
+}
+
+p {
+
+    font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+color: white;
+}
+
+.head-section { 
+
+    
+
+    display: flex;
+}
+.head-section img{
+
+    width: 367px;
+height: 615px;
+
+margin-left: 250px;
+
+margin-top: 50px;
+}
+.title-info {
+
+    padding-left: 50px;
+}
+.button-1 {
+
+    border-radius: 10px;
+
+    padding: 20px;
+
+    background-color: rgb(163, 24, 24);
+
+    font-size: 30px;
+
+    font-weight: 900;
+
+    color: white;
+}
+.tvicon {
+
+    color: white;
+}
+.middle-web {
+
+   display: flex;
+
+  
+
+    margin-top: 10%;
+}
+
+nav {
+
+    position: relative;
+
+    left: 5%;
+
+    
+}
+
+.navi a{
+    display: block;
+}
+.navbutton{ 
+
+margin-left: 17%;
+
+
+
+border-radius: 10px;
+
+    padding: 10%;
+
+    background-color: white;
+
+    font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+
+    color: black;
+
+    text-align: center;
+
+    width: 200px;
+
+    height: 100px;
+}
+.diff {
+    background-color: crimson;
+}
+.navdiv {
+
+    background-color: black;
+
+    height: 312px;
+
+    width: 312px;
+
+    display: flex;
+
+    
+
+    position: absolute;
+
+    border-radius: 25px;
+}
+
+.show {
+    
+    width: 312px;
+    height: 362px;
+
+    display: flex;
+
+    flex-direction: column;
+
+
+
+}
+
+.show-section{
+
+    
+
+    margin-left: 15%;
+
+    display: grid;
+
+    grid-template-columns: repeat(3,25%);
+
+    row-gap: 5%;
+
+    
+
+}
+
+.match-button{
+  
+    margin-left: 4%;
+    border-radius: 5px;
+
+    width: 100px;
+height: 32px;
+
+background-color: white;
+
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+}
+.time {
+
+   font-size: 24px;
+
+   margin-right: 25%;
+}
+
+footer {
+
+    margin-top: 10%;
+height: 444px;
+
+background-color: black;
+
+text-align: center;
+
+}
+
+
+h5 {
+    color: gainsboro;
+
+    display: inline;
+
+    margin-right: 6%;
+
+    
+}
+
+.footerdiv {
+
+    margin-top: 5%;
+}
+
+

@@ -2,7 +2,7 @@ body {
 
     font-family: 'Poppins', sans-serif;
 
-    background-color: rgb(250, 249, 249);
+    background-color: rgb(248, 239, 234);
 
 }
 
@@ -79,7 +79,7 @@ margin-top: 50px;
 
     border-radius: 10px;
 
-    padding: 15px;
+    padding: 25px;
 
     background-color: rgb(163, 24, 24);
 
@@ -97,18 +97,7 @@ margin-top: 50px;
 }
 
 
-/* nav {
 
-    position: relative;
-
-    left: 5%;
-
-    
-} */
-
-/* .navi a{
-    display: block;
-} */
 .navbutton{ 
 
 margin-left: 17%;
@@ -134,13 +123,13 @@ line-height: 30px;
     height: 100px;
 }
 .diff {
-    background-color: crimson;
+    background-color: rgb(4, 112, 184);
 }
 .navdiv {
 
     
 
-    background-color: black;
+    background-color: rgb(241, 130, 110);
 
     height: 312px;
 
@@ -174,6 +163,8 @@ line-height: 30px;
     align-items: center;
 
     justify-content: center;
+
+    border-radius: 15px;
 
 
 
@@ -291,6 +282,30 @@ hr {
 
     
 }
+
+.viewall-btn{ 
+
+margin-left: 40%;
+
+margin-top: 10%;
+
+visibility: hidden;
+}
+
+.btndesign {
+
+    font-size: 30px;
+
+    font-weight: 700;
+
+    color: white;
+
+    padding: 15px;
+
+    background-color: coral;
+}
+
+
 /* tablet */
 
 
@@ -345,6 +360,11 @@ header {
     background-color: white;
 
     margin-left: 22%;
+}
+
+.viewall-btn{
+
+    visibility: visible;
 }
 }
 
@@ -417,6 +437,10 @@ header {
 
 footer {
     height: 100%;
+}
+.viewall-btn {
+
+    visibility: hidden;
 }
 
 
